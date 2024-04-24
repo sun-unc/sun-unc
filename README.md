@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on study
 - 📫 WeChat: cccdox
-- 🌍 Base: 南京
+- 🌍 Base: 南京|合肥
 
 **Technology Stack:** 
 
