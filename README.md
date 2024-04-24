@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./banner.PNG)
 
 **Self Introduction:** 
 
