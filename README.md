@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hanyucd/hanyucd/main/header.png)
+![banner](./banner.png)
 
 **Self Introduction:** 
 
